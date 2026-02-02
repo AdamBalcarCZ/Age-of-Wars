@@ -1,6 +1,6 @@
 # ZÁKLADNÍ KONCEPCE
 1. RTS, strategy, War.
-2. Game Engine: Unity
+2. Game Engine: Godot
 3. Grafika: Izometrický pohled (2.5D), 3D modely pro jednotky a budovy, 2D tilemapy pro terén
 4. Systém zdrojů: Dřevo, kámen, jídlo, zlato – sbírání, ukládání, spotřeba
 
