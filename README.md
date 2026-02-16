@@ -7,5 +7,6 @@ Od hry sám očekávám že alespoň trochu bude fungovat jako moje inspirace a 
 
 1. [01_zakladni_koncepce](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/01_zakladni_koncepce.md)
 2. [02_game_design](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/02_game_design.md)
+3. [03_graphics](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/03_graphics.md)
 
 
