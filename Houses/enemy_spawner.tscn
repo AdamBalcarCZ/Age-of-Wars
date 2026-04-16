@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://buikwds7sc02w"]
+
+[ext_resource type="Script" uid="uid://b4qb0bgxp71o7" path="res://enemy_spawner.gd" id="1_xbbuk"]
+[ext_resource type="Texture2D" uid="uid://iwd6cnp8471b" path="res://MiniWorldSprites/Buildings/Red/RedBarracks.png" id="2_826de"]
+[ext_resource type="Texture2D" uid="uid://ceb8ox4h6c6d6" path="res://MiniWorldSprites/images-Photoroom.png" id="3_d4x35"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2sous"]
+size = Vector2(30, 29)
+
+[node name="EnemySpawner" type="StaticBody2D" unique_id=2050376995]
+input_pickable = true
+script = ExtResource("1_xbbuk")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=47251667]
+position = Vector2(245, 114.500015)
+scale = Vector2(3, 3)
+shape = SubResource("RectangleShape2D_2sous")
+
+[node name="Barracks2" type="Sprite2D" parent="." unique_id=296019091]
+position = Vector2(245, 113.000015)
+scale = Vector2(6, 6)
+texture = ExtResource("2_826de")
+hframes = 4
+vframes = 5
+frame = 3
+
+[node name="Selected" type="Sprite2D" parent="." unique_id=615134183]
+position = Vector2(245, 113.000015)
+scale = Vector2(0.83783805, 0.79295164)
+texture = ExtResource("3_d4x35")
+
+[node name="SpawnTimer" type="Timer" parent="." unique_id=94499943]
