@@ -1,4 +1,4 @@
-Rozhodl jsem se formu propagace udělat přes plakáty 
+Rozhodl jsem se formu propagace udělat přes plakáty (plakáty udělány přes: https://gemini.google.com/app?hl=cs
 
 # první plakát 
 ![gold](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/propagace.png)
