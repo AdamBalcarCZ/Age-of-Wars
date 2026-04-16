@@ -4,5 +4,5 @@ Rozhodl jsem se formu propagace udělat přes plakáty
 ![gold](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/propagace.png)
 
 ## druhý plakát
-![horde](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/propagace2.png)
+![horde](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/propagace3.png)
 
