@@ -9,6 +9,6 @@ Od hry sám očekávám že alespoň trochu bude fungovat jako moje inspirace a 
 2. [02_game_design](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/02_game_design.md)
 3. [03_graphics](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/03_graphics.md)
 4. [04_Audio](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/04_Audio/04_Audio.md)
-7. [07_propagace](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/07_propagace)
+7. [07_propagace](https://github.com/AdamBalcarCZ/Age-of-Wars/blob/main/07_propagace.md)
 
 
