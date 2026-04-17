@@ -1,4 +1,5 @@
 **Dokumentace k RTS Hře (Godot 4)**
+
 Tento dokument popisuje základní strukturu, mechaniky a skripty jednoduché RTS (Real-Time Strategy) hry postavené v enginu Godot 4. Hra obsahuje těžbu surovin, pohyb a výběr jednotek, stavění na mřížce a uživatelské rozhraní pro produkci.
 
 **Základní Mechaniky**
