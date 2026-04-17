@@ -1,7 +1,7 @@
 **Dokumentace k RTS Hře (Godot 4)**
 Tento dokument popisuje základní strukturu, mechaniky a skripty jednoduché RTS (Real-Time Strategy) hry postavené v enginu Godot 4. Hra obsahuje těžbu surovin, pohyb a výběr jednotek, stavění na mřížce a uživatelské rozhraní pro produkci.
 
-**🛠 Základní Mechaniky**
+**Základní Mechaniky**
 Ekonomika: Hráč těží dvě základní suroviny: Dřevo (Wood) a Zlato (Gold).
 
 Grid System (Mřížka): Mapa je matematicky rozdělena do mřížky (výchozí velikost dlaždice je 32x32 nebo 16x16 pixelů). Stromy se generují přesně na těchto bodech a budovy (Barracks) se při stavění "přichytávají" k této mřížce.
@@ -10,7 +10,7 @@ Výběr jednotek (Selection): Hráč může kliknout na jednotlivou entitu nebo 
 
 Pohyb: Vybrané jednotky se pohybují pomocí pravého kliknutí myši s možností fronty příkazů (Shift-click).
 
-**📂 Struktura Hlavních Skriptů**
+**Struktura Hlavních Skriptů**
 Systém se skládá z několika nezávislých skriptů, které spolu komunikují primárně přes Globální Autoload nebo signály.
 
 **1. Game.gd (Globální Autoload / Singleton)**
